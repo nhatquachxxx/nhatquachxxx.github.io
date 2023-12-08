@@ -4,6 +4,14 @@ layout: default
 
 _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serves as a place for me to show my projects especially in data analyzation and transformation aspects._
 
+## Contact
+* * *
+Github: https://github.com/nhatquachxxx
+
+Linkedin: https://www.linkedin.com/in/nhatquach1011
+
+Email: nhatquach1011@gmail.com
+
 ## My Toolset
 * * *
 <p align="center">
