@@ -6,11 +6,12 @@ _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serve
 
 ## Contact
 * * *
-Github: https://github.com/nhatquachxxx
+* Github: https://github.com/nhatquachxxx
 
-Linkedin: https://www.linkedin.com/in/nhatquach1011
+* Linkedin: https://www.linkedin.com/in/nhatquach1011
 
-Email: nhatquach1011@gmail.com
+* Email: nhatquach1011@gmail.com
+
 
 ## My Toolset
 * * *
@@ -25,3 +26,15 @@ Email: nhatquach1011@gmail.com
     <img src="pictures\git.png" width="50" />
     <img src="pictures\jira.png" width="50" />
 </p>
+
+
+## Work Experience
+* * *
+#### Looker Developer | CyberLogitec Vietnam | Oct 2022 – Present
+
+* Migrate data marts from Cognos to Looker for Accounts Payable module of Ocean Network Express (ONE) and perform tests to ensure data quality.
+
+* Enhance migrated Explore in Looker with user requirements with end-to-end process, from analyzing requirements, designing solutions, developing and deploying to Production environment.
+
+
+## Projects
