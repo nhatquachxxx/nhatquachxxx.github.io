@@ -7,11 +7,11 @@ _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serve
 
 ## ☎️ Contact
 
-* Github: https://github.com/nhatquachxxx
+* **Github**: https://github.com/nhatquachxxx
 
-* Linkedin: https://www.linkedin.com/in/nhatquach1011
+* **Linkedin**: https://www.linkedin.com/in/nhatquach1011
 
-* Email: nhatquach1011@gmail.com
+* **Email**: nhatquach1011@gmail.com
 <br/><br/>
 
 ## 🛠️ My Toolset
