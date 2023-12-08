@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light) ![Teest](pictures\dbt-bit_tm.png)
+_Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serves as a place for me to show my projects especially in data analyzation and transformation aspects._
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
