@@ -2,7 +2,7 @@
 layout: default
 ---
 
-_Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serves as a place for me to show my projects especially in data analyzation and transformation aspects._
+_Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serves as a place for me to showcase my projects especially in data analyzation and transformation aspects._
 
 
 ## ☎️ Contact
@@ -49,28 +49,11 @@ _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serve
 
 Text right here.
 
-**Stack/Technologies**
-
-* Point 1
-
-* Point 2
-
-* Point 3
-
-* Point 4
-
 ### Data Pipeline for Jira platform
+
+<a href="https://github.com/clv-dev/jira-clv-transformation" target="_blank">Explore More
+</a>
 
 **Overview**
 
 Text right here.
-
-**Stack/Technologies**
-
-* Point 1
-
-* Point 2
-
-* Point 3
-
-* Point 4
