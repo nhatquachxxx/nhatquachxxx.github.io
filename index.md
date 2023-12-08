@@ -2,7 +2,8 @@
 layout: default
 ---
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light) [Teest](pictures\dbt-bit_tm.png)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light) ![Teest](pictures\dbt-bit_tm.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
