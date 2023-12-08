@@ -42,7 +42,7 @@ _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serve
 
 ### Data Warehouse Project 
 
-<a href="https://github.com/nhatquachxxx/data-warehouse-course">Explore More
+<a href="https://github.com/nhatquachxxx/data-warehouse-course" target="_blank">Explore More
 </a>
 
 **Overview**
