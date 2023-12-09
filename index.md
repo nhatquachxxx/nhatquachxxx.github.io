@@ -57,4 +57,4 @@ In this project, I built a data pipleine to extract data for the purpose of team
 **Overview** <br/>
 In this project, I built a Data Warehouse from scratch for 2 modules Sales Orders and Purchasing Orders. Kimball's Dimensional Modeling principles is applied when designing data model especially such hard techniques as snapshot fact table, hierarchy bridge table, etc. Besides, I also implemented data quality check with dbt Test and other add-ins.
 
-![A picture about diagram](pictures\sales_order_model.png)
+![A picture about diagram](pictures\model.png)
