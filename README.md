@@ -1,7 +1,3 @@
----
-layout: default
----
-
 _Hi there! This is Nhat Quach 👋. Welcome to my personal portfolio which serves as a place for me to showcase my projects especially in data analyzation and transformation aspects._
 <br/><br/>
 
